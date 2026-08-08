@@ -5,17 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0525-contiguous-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0525-contiguous-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
