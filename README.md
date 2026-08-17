@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
 | [0525-contiguous-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -96,4 +98,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
