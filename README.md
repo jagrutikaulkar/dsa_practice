@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
