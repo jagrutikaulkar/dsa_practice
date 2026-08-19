@@ -1,22 +1,29 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        int left = 0b11110000;
-        int middle = 0b11000011;
-        int right = 0b00001111;
-
-        unordered_map<int, int> occupied;
-        for (const vector<int>& seat : reservedSeats) {
-            if (seat[1] >= 2 && seat[1] <= 9) {
-                occupied[seat[0]] |= (1 << (seat[1] - 2));
-            }
+        unordered_map<int,vector<int>>mpp;
+        for(auto it:reservedSeats){
+            mpp[it[0]].push_back(it[1]);
         }
-
-        int ans = (n - occupied.size()) * 2;
-        for (auto& [row, bitmask] : occupied) {
-            if (((bitmask | left) == left) || ((bitmask | middle) == middle) ||
-                ((bitmask | right) == right)) {
-                ++ans;
+        int ans=(n-mpp.size())*2;
+        for(auto i:mpp){
+            bool k=0;
+            vector<bool>s(11,0);
+            for(auto x:i.second){
+                s[x]=1;
+            }
+            if(!s[2] && !s[3] && !s[4] && !s[5]){
+                ans++;
+                k=1;
+            }
+            if(!s[6] && !s[7] && !s[8] && !s[9]){
+                ans++;
+                k=1;
+            }
+            if(!k){
+                if(!s[6] && !s[7] && !s[4] && !s[5]){
+                    ans++;
+                }
             }
         }
         return ans;
