@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0258-add-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
