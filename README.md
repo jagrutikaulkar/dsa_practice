@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
+| [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3904-smallest-stable-index-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
+| [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -168,8 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
