@@ -8,7 +8,7 @@ public:
 
         for(int i=0;i<n;i+=2)
         {
-            reverse(nums.begin()+i,nums.begin()+i+2);
+            swap(nums[i],nums[i+1]);
         }
 
 return nums;
