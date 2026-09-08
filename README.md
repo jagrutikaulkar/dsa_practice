@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
