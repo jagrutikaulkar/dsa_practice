@@ -15,6 +15,6 @@ public:
              }
         }
 
-        return (whole_sum- digit_sum);
+        return abs(whole_sum- digit_sum);
     }
 };
