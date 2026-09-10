@@ -12,34 +12,26 @@
 class Solution {
 public:
 int result = 0;
-   void calculateAvg(TreeNode* root, int &sum, int &count)
+   pair<int,int> dfs(TreeNode* root)
    {
-       if(root==NULL)
-       return;
+         if(root ==NULL)
+         return {0,0};
 
-       sum+= root->val;
-       count++;
+         pair<int,int> left = dfs(root->left);
+         pair<int,int> right = dfs(root->right);
 
-       calculateAvg(root->left, sum, count);
-       calculateAvg(root->right,sum, count);
+         int sum = root->val+left.first+ right.first;
+         int count = 1+left.second + right.second;
+
+         if((sum/count) == root->val)
+         result++;
+
+         return {sum, count};
    }
     
     int averageOfSubtree(TreeNode* root) {
         
-    if(root==NULL)
-    return 0;
- 
-     int sum=0;
-     int count=0;
-     calculateAvg(root, sum, count);
-     if(root->val == (sum/count))
-     {
-        result++;
-     }
-      
-    averageOfSubtree(root->left);
-    averageOfSubtree(root->right);
-
+     dfs(root);
      return result;
 
     }
