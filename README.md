@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0110-balanced-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0110-balanced-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0110-balanced-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
