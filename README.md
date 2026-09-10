@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
