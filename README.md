@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
