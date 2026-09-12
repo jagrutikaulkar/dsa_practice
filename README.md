@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
@@ -205,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Recursion
 |  |
