@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1672-richest-customer-wealth) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3024-type-of-triangle) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
