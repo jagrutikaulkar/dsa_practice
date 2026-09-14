@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0258-add-digits) |
+| [0836-rectangle-overlap](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1672-richest-customer-wealth) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
