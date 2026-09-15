@@ -248,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
