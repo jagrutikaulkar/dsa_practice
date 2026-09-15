@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0205-isomorphic-strings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0239-sliding-window-maximum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
