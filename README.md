@@ -101,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0110-balanced-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -255,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
