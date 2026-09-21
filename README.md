@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3904-smallest-stable-index-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3524-find-x-value-of-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0115-distinct-subsequences) |
+| [3524-find-x-value-of-array-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
