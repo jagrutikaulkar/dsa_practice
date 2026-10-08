@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0547-number-of-provinces) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
