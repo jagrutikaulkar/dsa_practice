@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -287,4 +290,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jagrutikaulkar/dsa_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
