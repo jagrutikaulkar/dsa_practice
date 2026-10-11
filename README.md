@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2974-minimum-number-game) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jagrutikaulkar/dsa_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jagrutikaulkar/dsa_practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Polygons
 |  |
